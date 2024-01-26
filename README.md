@@ -26,9 +26,12 @@ Se você estiver usando o PHP incorporado, inicie o servidor embutido:
 
 php -S localhost:8000
 
+ou se não estiver, eu utilizei o Apache via XAMPP, aqui esta o link de download do mesmo: https://www.apachefriends.org/pt_br/download.html 
+
 Configuração do Ambiente
 
 Certifique-se de ter PHP instalado em seu sistema. O projeto foi desenvolvido e testado usando PHP 7.4.
+
 
 Comandos Básicos para Execução
 
