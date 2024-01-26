@@ -14,9 +14,7 @@ cd biblioteca
 
 Configure as Credenciais do Banco de Dados:
 
-Renomeie o arquivo config.sample.php para config.php.
-
-Abra config.php e atualize as constantes DB_HOST, DB_NAME, DB_USER e DB_PASS com suas próprias credenciais.
+Abra database.sql e atualize as constantes DB_HOST, DB_NAME, DB_USER e DB_PASS com suas próprias credenciais.
 
 Importe o Banco de Dados:
 
